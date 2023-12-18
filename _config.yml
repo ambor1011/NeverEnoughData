@@ -1,9 +1,9 @@
 theme: jekyll-theme-minimal
-title: ADA Template Website
+title: NeverEnoughData ADA Project
 description: A template website for ADA
 show_downloads: True
 navigation:
   - title: Home
     url: /
-  - title: Example
+  - title: Home
     url: example
