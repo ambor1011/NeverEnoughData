@@ -22,5 +22,8 @@ In order to have a good idea of all this means we choosen to answer dig into our
 ## Research question 1
 
 
+{% include fig_q1_1.html %}
+
+
 
 
