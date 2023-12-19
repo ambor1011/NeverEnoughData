@@ -47,7 +47,7 @@ To start we can see what is happening on each style of beer directly (clustering
 
 
 
-{% include fig\_q1\_3.html %}
+{% include fig_q1_3.html %}
 
 *This figure represents the percentage of rating for each style per year.*
 
@@ -73,7 +73,7 @@ We can first evaluate the rating average on each of this groups through the year
 
 
 
-{% include fig\_q1\_1.html %}
+{% include fig_q1_1.html %}
 
 
 
@@ -81,7 +81,7 @@ The blonde beers seems to be more liked through time but let's compare this to t
 
 
 
-{% include fig\_q1\_2.html %}
+{% include fig_q1_2.html %}
 
 *This figure shows the percentage of rating for each group for each year*
 
@@ -99,7 +99,7 @@ This table combined with the previous one is interresting : as the rating of the
 
 This is how we include a plotly graph write the following line
 
-{% include fig\_q1\_1.html %}
+{% include fig_q1_1.html %}
 
 
 
