@@ -4,8 +4,6 @@ title: Home
 subtitle: Beer Analysis
 ---
 
-
-
 # Introduction
 
 
@@ -22,7 +20,7 @@ In order to have a good idea of all this means we choosen to answer dig into our
 
 ## Research question 1
 
-The first question that we could ask to ourselves is through the year the preferences of poeple has changed and evolved. Does some beers are more/less liked in 2003 than 2015 ?
+The first question that we could ask to ourselves is if through the years the preferences of poeple has changed and evolved. Does some beers are more/less liked in 2003 than 2015 ?
 
 To have an idea about this question, let's introduce 2 metrics that can show interresting result.
 
@@ -94,21 +92,43 @@ This table combined with the previous one is interresting : as the rating of the
 
 
 
+## Research question 2
 
+In this research question we would like to answer, which aspect of the beer in the ratings (aroma, appearance, taste, pallate and overall rate) have the highest impact on the popularity of the beer. First lets visualize the ratings for each of these aspects during the time we have data, to see if the perception of reviewers towards different beer styles in each of these aspects is changed or not. 
 
-# How to include a graph
-
-This is how we include a plotly graph write the following line
-
-{% include fig_q1_1.html %}
-
-
-
-Then in the git of the website add the html file into the "\_includes" folder
+{% include fig 4metric_style.html %}
 
 
 
 
+
+To answer this question we should define the popularity in this context. For the research question we define the popularity as follow.
+
+
+
+**Metric 3**
+
+Populairty = scaled number of reviews per beer style per year * average rating per beer style per year.
+
+
+
+The reason to construct the populaity like this is the fact that, the number of reviews are not constant during different years therefore we need to devide the number of reviews for each beer style per year by total number of reviews in that year to find a relative attaction of certain beer style for writting the review. But having number of review is not only pillar to quality and acceptance of a beer, maybe we can have a bad beer with high number of reviews. Therefore, we multipy the relative number of comments to average rating for that year and beer style. This metric could represent the populaity of beer. 
+
+
+
+Now we have our dependant varibale, lets talk about the independant varibales. We are going to  use aroma, appearance, taste, pallate and overall rate as our IVs. But before construcitng the regression we need to make sure our independant variables are indeed independant. Therefore, we need to check if they have corrolation with eachother or not. Unfortunately, these metrics are corrolated with each otehr therefore, we can not construct our regression and therefore we can not conclude that any of these metric is more significant because they are related.
+
+
+
+
+
+
+
+
+
+## Ethical Risk
+
+We don't know the reviewer's identity or their distribution on age, gender, and sensitive attributes. This fact is good because the risk of being traced back to reviewers could ensure their privacy. However, when we don't have any insights into these attributes, we may generalize our findings to the whole society. Imagine a scenario where most of the reviewers are men and mid-aged; then, all the deductions for all research questions are heavily biased. Therefore, any use of such an analysis could be discriminative regarding gender, age, and ethnicity. 
 
 
 
