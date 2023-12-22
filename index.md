@@ -116,7 +116,7 @@ In this research question we would like to answer, which aspect of the beer in t
 
 ![4_metrics_style](https://github.com/ambor1011/NeverEnoughData/raw/master/assets/img/4metric_style.jpg)
 
-
+As we see, besides the blonde beer, all the other styles have a stable trend. We have investigated the number of reviews for different styles, and they have shown similar trends as well. Therefore, we can conclude that besides blond beer, reviewers' perception of other beers is quite stable.
 
 To answer this question we should define the popularity in this context. For the research question we define the popularity as follow.
 
