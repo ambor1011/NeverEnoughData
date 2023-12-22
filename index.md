@@ -168,7 +168,7 @@ Some breweries have more than on popular beer, those can be large corporations l
 
 
 
-![fig_q3_2](https://github.com/ambor1011/NeverEnoughData/blob/master/assets/img/fig_q3_2.jpg)
+![fig_q3_2](https://github.com/ambor1011/NeverEnoughData/raw/master/assets/img/fig_q3_2.jpg)
 
  
 
@@ -182,7 +182,7 @@ A large part of the users come from the US, as a lot of beers in the website are
 
 
 
-![fig_q3_3](https://github.com/ambor1011/NeverEnoughData/blob/master/assets/img/fig_q3_3.jpg)
+![fig_q3_3](https://github.com/ambor1011/NeverEnoughData/raw/master/assets/img/fig_q3_3.jpg)
 
 
 
@@ -194,7 +194,7 @@ A large part of the users come from the US, as a lot of beers in the website are
 
 Some styles appear more than the others in the popular beers.
 
-![fig_q3_4](https://github.com/ambor1011/NeverEnoughData/blob/master/assets/img/fig_q3_4.jpg)
+![fig_q3_4](https://github.com/ambor1011/NeverEnoughData/raw/master/assets/img/fig_q3_4.jpg)
 
 
 
