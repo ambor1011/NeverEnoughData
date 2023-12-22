@@ -8,7 +8,7 @@ subtitle: Beer Analysis
 
 
 
-Beer is one of the most used alcoholic beverages in the world. It’s consumptions has exceeded more that 185 million kiloliters in recent years. As beverage which hundred millions of people drink, its taste and styles has experienced considerable evolution. As any business understanding consumer preferences of beer styles is crucial for producers, distributors, and enthusiasts alike. This website digs into a comprehensive beer dataset, aiming to show the history of beer preferences over time. We are going to investigate what variables are contributing in beer preferences and how does they evolve through time.
+Beer is one of the most used alcoholic beverages in the world. Its consumptions has exceeded more that 185 million kiloliters in recent years. As a beverage which hundreds of millions of people drink, its taste and styles has experienced considerable evolution. As any business understanding consumer preferences of beer styles is crucial for producers, distributors, and enthusiasts alike. This website digs into a comprehensive beer dataset, aiming to show the history of beer preferences over time. We are going to investigate what variables are contributing in beer preferences and how does they evolve through time. We will also see whether beer preferences vary depending on the country of the users that are drinking them, or do different countries have different beer preferences
 
 
 
