@@ -152,7 +152,7 @@ The "popularity reach date" is defined as the average between the time taken to 
 
 
 
- ![fig_q3_1](https://github.com/ambor1011/NeverEnoughData/blob/master/assets/img/fig_q3_1.jpg)
+ ![fig_q3_1](https://github.com/ambor1011/NeverEnoughData/raw/master/assets/img/fig_q3_1.jpg)
 
  One can see that the distribution is a righ skew, with a median at 4 years.
 
