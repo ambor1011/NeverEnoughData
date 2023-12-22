@@ -194,7 +194,7 @@ A large part of the users come from the US, as a lot of beers in the website are
 
 Some styles appear more than the others in the popular beers.
 
-![fig_q3_4](https://ambor1011.github.io/NeverEnoughData/raw/master/assets/img/fig_q3_4.jpg)
+![fig_q3_4](https://github.com/ambor1011/NeverEnoughData/blob/master/assets/img/fig_q3_4.jpg)
 
 
 
