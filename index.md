@@ -114,7 +114,8 @@ In this research question we would like to answer, which aspect of the beer in t
 
 
 
-    ![4_metrics_style]([https://ambor1011.github.io/NeverEnoughData/assets/img/4metric_style.jpg)](https://ambor1011.github.io/NeverEnoughData/assets/img/4metric_style.jpg))
+![4_metrics_style]
+(https://ambor1011.github.io/NeverEnoughData/assets/img/4metric_style.jpg)
 
 
 
