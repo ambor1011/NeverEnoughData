@@ -182,7 +182,7 @@ A large part of the users come from the US, as a lot of beers in the website are
 
 
 
-    ![fig_q3_3]([https://ambor1011.github.io/NeverEnoughData/assets/img/fig_q3_4.jpg)](https://ambor1011.github.io/NeverEnoughData/assets/img/fig_q3_4.jpg))
+![fig_q3_3](https://ambor1011.github.io/NeverEnoughData/raw/master/assets/img/fig_q3_4.jpg)
 
 
 
