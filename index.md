@@ -60,7 +60,7 @@ To start we can see what is happening on each style of beer directly (clustering
 
 
 
-{% include fig\_q1\_3.html %}
+{% include fig_q1_3.html %}
 
 *This figure represents the percentage of rating for each style per year.*
 
@@ -86,7 +86,7 @@ We can first evaluate the rating average on each of this groups through the year
 
 
 
-{% include fig\_q1\_1.html %}
+{% include fig_q1_1.html %}
 
 
 
@@ -94,7 +94,7 @@ The blonde beers seems to be more liked through time but let's compare this to t
 
 
 
-{% include fig\_q1\_2.html %}
+{% include fig_q1_2.html %}
 
 *This figure shows the percentage of rating for each group for each year*
 
@@ -114,7 +114,7 @@ In this research question we would like to answer, which aspect of the beer in t
 
 
 
-    ![4\_metrics\_style]([https://ambor1011.github.io/NeverEnoughData/assets/img/4metric\_style.jpg)](https://ambor1011.github.io/NeverEnoughData/assets/img/4metric\_style.jpg))
+    ![4_metrics_style]([https://ambor1011.github.io/NeverEnoughData/assets/img/4metric_style.jpg)](https://ambor1011.github.io/NeverEnoughData/assets/img/4metric_style.jpg))
 
 
 
@@ -152,7 +152,7 @@ The "popularity reach date" is defined as the average between the time taken to 
 
 
 
-    ![fig\_q3\_1]([https://ambor1011.github.io/NeverEnoughData/assets/img/fig\_q3\_1.jpg)](https://ambor1011.github.io/NeverEnoughData/assets/img/fig\_q3\_1.jpg))
+    ![fig_q3_1]([https://ambor1011.github.io/NeverEnoughData/assets/img/fig_q3_1.jpg)](https://ambor1011.github.io/NeverEnoughData/assets/img/fig_q3_1.jpg))
 
  One can see that the distribution is a righ skew, with a median at 4 years.
 
@@ -168,7 +168,7 @@ Some breweries have more than on popular beer, those can be large corporations l
 
 
 
-    ![fig\_q3\_2]([https://ambor1011.github.io/NeverEnoughData/assets/img/fig\_q3\_2.jpg)](https://ambor1011.github.io/NeverEnoughData/assets/img/fig\_q3\_2.jpg))
+    ![fig_q3_2]([https://ambor1011.github.io/NeverEnoughData/assets/img/fig_q3_2.jpg)](https://ambor1011.github.io/NeverEnoughData/assets/img/fig_q3_2.jpg))
 
  
 
@@ -182,7 +182,7 @@ A large part of the users come from the US, as a lot of beers in the website are
 
 
 
-    ![fig\_q3\_3]([https://ambor1011.github.io/NeverEnoughData/assets/img/fig\_q3\_4.jpg)](https://ambor1011.github.io/NeverEnoughData/assets/img/fig\_q3\_4.jpg))
+    ![fig_q3_3]([https://ambor1011.github.io/NeverEnoughData/assets/img/fig_q3_4.jpg)](https://ambor1011.github.io/NeverEnoughData/assets/img/fig_q3_4.jpg))
 
 
 
@@ -194,11 +194,11 @@ A large part of the users come from the US, as a lot of beers in the website are
 
 Some styles appear more than the others in the popular beers.
 
-    ![fig\_q3\_4]([https://ambor1011.github.io/NeverEnoughData/assets/img/fig\_q3\_4.jpg)](https://ambor1011.github.io/NeverEnoughData/assets/img/fig\_q3\_4.jpg))
+    ![fig_q3_4]([https://ambor1011.github.io/NeverEnoughData/assets/img/fig_q3_4.jpg)](https://ambor1011.github.io/NeverEnoughData/assets/img/fig_q3_4.jpg))
 
 
 
-In conclusion, popular beers take around 4 years to reach popularity, this can be highly influenced by the popularity and location of the brewery but also by the style of the beer crafted and the overall\_score of the beer.
+In conclusion, popular beers take around 4 years to reach popularity, this can be highly influenced by the popularity and location of the brewery but also by the style of the beer crafted and the overall_score of the beer.
 
 
 
@@ -214,7 +214,7 @@ Our users come from 222 different locations (50 of which are US states) from 6 c
 
 
 
-{% include fig\_q4\_1.html %}
+{% include fig_q4_1.html %}
 
 
 
@@ -232,7 +232,7 @@ More detail can be found when looking directly at countries. We plot below a his
 
 
 
-{% include fig\_q4\_2.html %}
+{% include fig_q4_2.html %}
 
 
 
@@ -248,7 +248,7 @@ Going more into detail, looking at countries rather than continents, the situati
 
 
 
-{% include fig\_q4\_3.html %}
+{% include fig_q4_3.html %}
 
 
 
