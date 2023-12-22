@@ -168,7 +168,7 @@ Some breweries have more than on popular beer, those can be large corporations l
 
 
 
-![fig_q3_2](https://ambor1011.github.io/NeverEnoughData/raw/master/assets/img/fig_q3_2.jpg)
+![fig_q3_2](https://github.com/ambor1011/NeverEnoughData/blob/master/assets/img/fig_q3_2.jpg)
 
  
 
