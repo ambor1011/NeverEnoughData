@@ -96,7 +96,7 @@ This table combined with the previous one is interresting : as the rating of the
 
 In this research question we would like to answer, which aspect of the beer in the ratings (aroma, appearance, taste, pallate and overall rate) have the highest impact on the popularity of the beer. First lets visualize the ratings for each of these aspects during the time we have data, to see if the perception of reviewers towards different beer styles in each of these aspects is changed or not. 
 
-{% include fig 4metric_style.html %}
+{% include 4metric_style.html %}
 
 
 
